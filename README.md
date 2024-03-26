@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Mondal
 - 👀 I’m interested in Front end Web Development 
-- 🌱 I’m currently learning MERN Stack development 
+- 🌱 I’m currently searching for internship opportunities 
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 reach me on LinkedIn https://www.linkedin.com/in/rahul-mondal123/
 
